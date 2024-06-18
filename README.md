@@ -17,14 +17,18 @@ Structuring of code
 
 How to RUN the code 
     The .py file is in zip folder, you need to extract it.  
+    
 	You can call the function using the filename :- red_blue_nim.py followed by number of red marble and then the number of blue marbles.
-	Then you need to pass the version command which is as follows:
+	
+Then you need to pass the version command which is as follows:
             for misere - "misere"
             for standard - "standard"
-    Then you need to pass the first players command which is as follows:
+   
+Then you need to pass the first players command which is as follows:
             for computer - "computer"
             for human - "human"
-	If no version is given then by default it'll take standard version and for first player if nothing is passed then by default player would be computer. 
+
+If no version is given then by default it'll take standard version and for first player if nothing is passed then by default player would be computer. 
 	But if a wrong input will be given it will give error.	
 	
 Command line arguement to run the code
